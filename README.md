@@ -12,7 +12,8 @@ Paper Link: https://arxiv.org/pdf/1412.1058v2
 ---
 
 ## NOTES:
-If you're using this notebook for the first time (or if you get errors like `ValueError: numpy.dtype size changed`), follow these steps:
+### (For reproducibility)
+When using this notebook for the first time (if getting errors like `ValueError: numpy.dtype size changed`), follow these steps:
 
 1. Go to the `INSTALL_DEPENDENCIES` cell at the top.
 2. Set `INSTALL_DEPENDENCIES = True`.
