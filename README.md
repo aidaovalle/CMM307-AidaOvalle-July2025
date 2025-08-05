@@ -17,7 +17,7 @@ If you're using this notebook for the first time (or if you get errors like `Val
 1. Go to the `INSTALL_DEPENDENCIES` cell at the top.
 2. Set `INSTALL_DEPENDENCIES = True`.
 3. Run that cell to install the correct versions of packages.
-4. **Restart the runtime** (Runtime > Restart runtime).
+4. Restart the runtime (Runtime > Restart runtime).
 5. Set `INSTALL_DEPENDENCIES = False` again.
 6. Run all cells from the top.
 7. It should all run smoothly now.
