@@ -3,7 +3,7 @@
 
 Repository for my CMM307 Advanced Artificial Intelligence Coursework.
 
-It contains a Google Colab Notebook, the dataset used for the project and the research paper from which I implemented an algorithm.
+It contains a Google Colab Notebook and the research paper from which I implemented an algorithm.
 
 Dataset Link: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?resource=download
 
